@@ -5,7 +5,8 @@ The JST-XH connector has a 2.5mm pitch, ensuring reliability. It's compact at 9.
 
 JST-XH 2.5MM Connector Options
 
-![image](https://github.com/microrobotics/JST-XH-2.5MM/assets/4562957/a0d6afb0-2e9b-4a9d-8ce3-73a7ac6b8a3a)
+![image](https://github.com/microrobotics/JST-XH-2.5MM/assets/4562957/cd56519f-21e9-4543-b465-21bb90c67cde)
+
 
 
 
